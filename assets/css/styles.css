@@ -1,0 +1,73 @@
+/*Samuel Ilesanmi*/
+/*Body style*/
+body {
+ background-image: url("../img/background.jpg");
+}
+
+/*Style for headers*/
+h1{
+    font-family: serif;
+    font-style: italic;
+    text-align: center;
+    color: #AA6633;
+}
+
+/*Style for main div container*/
+.row {
+  display: box;
+  position: absolute;
+  top: 3%;
+  left: 33%;
+    width: 37%;
+    opacity: 0.9;
+    
+  border-style: solid;
+  border-color: #AA6633;
+    
+
+}
+
+/*Style for individual divs*/
+.section {
+  flex: 50%;
+  padding: 5px;
+    background-color: aliceblue
+}
+
+/*Image style*/
+img{
+    width: 350px;
+    margin-left: 25%;
+}
+
+/*Button style*/
+.button{
+    background-color: #AA6633; 
+    border: none;
+    color: white;
+    padding: 13px 26px;
+    font-size: 13px;
+    border-radius: 12px;
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+/*Select style*/
+.selectdiv{
+    border-radius: 7px;
+    border-color: #AA6633; 
+    margin-left: 25px;
+}
+
+/*Text style*/
+.p{
+   padding-left: 25px;
+    font-weight: 300;
+}
+
+/*Mini Header style*/
+.h3{
+    padding-left: 25px;
+}
