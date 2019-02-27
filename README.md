@@ -1,5 +1,5 @@
 # Dynamic Dropdown Project
-THis Project  contains a form using select pull-down elements.  Once the user selects the desired option, This script will dynamically create another pull-down element whose contents will depend upon the visitor's first choice.
+This Project  contains a form using select pull-down elements.  Once the user selects the desired option, This script will dynamically create another pull-down element whose contents will depend upon the visitor's first choice.
 
 <b>WEb Technologies:</b>
 
