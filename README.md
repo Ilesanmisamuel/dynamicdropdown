@@ -3,7 +3,7 @@ This Project  contains a form using select pull-down elements.  Once the user se
 
 <b>WEb Technologies:</b>
 
-HTML</br>
+HTML5</br>
 CSS</br>
 Javascript</br>
 JSON</br>
