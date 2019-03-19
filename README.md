@@ -10,3 +10,6 @@ JSON</br>
 
 <b>Developer:</b></br>
 Samuel Ilesanmi
+
+# Disclaimer 
+This project is still under construction.
